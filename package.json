@@ -1,0 +1,6 @@
+
+{
+    "scripts": {
+    "serve-ui-dev-local": "cd client/kr-app &&  ng serve"   
+  }
+}
