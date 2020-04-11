@@ -7,12 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
-
-  myClickFunction(event) {
-    var a = 5;
-    console.log(a);
-    alert("Button is clicked");
-    
- }
 }
 
